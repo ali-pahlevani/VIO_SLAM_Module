@@ -1,3 +1,7 @@
+![1](https://github.com/user-attachments/assets/bc4db39d-0447-4f08-be24-1c1f6eb5e8d3)
+![2](https://github.com/user-attachments/assets/60e83474-e20d-4584-9a21-c54e45453e02)
+![3](https://github.com/user-attachments/assets/fffe2eb4-403a-4eb4-ab04-ff91d0500ecc)
+
 This is the Prototype-v1 VIO-SLAM setup which has embedded "Jetson Nano B01", "IMX219-83 Stereo Camera", "IMU (MPU 9250)", and "GPS (UBLOX NEO-M8N)" in a metal case. Also, there is a 5V fan to cool down the Jetson. For wireless communication with the board, we’ve used a "Wi-Fi adaptor (TP-Link, 150 Mbps)" for now.
 We have conducted the calibration process for the cameras, along with some initial testing. Soon, I’ll post the simulation and test results of a VIO algorithm running on this setup.
 
