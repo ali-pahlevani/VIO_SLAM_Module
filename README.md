@@ -1,5 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github.com/user-attachments/assets/bc4db39d-0447-4f08-be24-1c1f6eb5e8d3" alt="1" width="350" height="350" />
+<div>
+    <center>
+        <img src="https://github.com/user-attachments/assets/bc4db39d-0447-4f08-be24-1c1f6eb5e8d3" alt="1" width="350" height="350" />
+    </center>
 </div>
 
 This is the Prototype-v1 VIO-SLAM setup which has embedded "Jetson Nano B01", "IMX219-83 Stereo Camera", "IMU (MPU 9250)", and "GPS (UBLOX NEO-M8N)" in a metal case. Also, there is a 5V fan to cool down the Jetson. For wireless communication with the board, we’ve used a "Wi-Fi adaptor (TP-Link, 150 Mbps)" for now.
